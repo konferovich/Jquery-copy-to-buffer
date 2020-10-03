@@ -3,9 +3,8 @@
  *
  * mail: konferovich.sergey@yandex.ru
  * https://vk.com/konferovich_sergey
- */
-/*
-use "copy-to-buffer" class to copy inner html
+ 
+ * use "copy-to-buffer" class to copy inner html
 */
 $(document).on('click', '.copy-to-buffer', function () {
     function htmlDecode(input) {
